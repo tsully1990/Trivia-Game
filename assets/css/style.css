@@ -1,0 +1,28 @@
+body {
+    color: green;
+    background-color: purple;
+    text-shadow: -1px 0 rgb(216, 65, 65), 0 1px rgb(196, 37, 37), 1px 0 rgb(226, 39, 39), 0 -1px rgb(226, 42, 42);
+    font-family: 'Press Start 2P';
+}
+#wrapper {
+    text-align: center;
+}
+#subwrapper {
+    background-color: yellow;
+    text-align: center;
+    margin: 200px;
+    border: 5px solid rgb(255, 50, 170);
+}
+.jumbotron {
+    background-color: purple;
+    text-align: center;
+    font-size: 30px;
+}
+#start {
+    color: blue;
+    border: 3px solid rgb(24, 245, 32);
+}
+.display-4 {
+    font-size: 110px;
+    text-shadow: -1px 0 rgb(45, 245, 62), 0 1px rgb(27, 247, 93), 1px 0 rgb(33, 248, 33), 0 -1px rgb(34, 252, 26);
+}
